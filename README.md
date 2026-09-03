@@ -60,7 +60,7 @@
   o comando `git add.` adiciona os arquivos modificados à *staging area*. 
 
 
-  O comando `git commit -m "Texto com a descrição do que foi feito"` Registra as alterações com uma mensagem.
+  O comando `git commit -m "Texto com a descrição do que foi feito"` Registra as alterações com uma mensagem. usar aspas sempre depois do comando e adicione um comentario
 
   O comando `git push origin main` sobe as alteraçoes para a nuvem.
 
@@ -70,3 +70,33 @@ git add
 git commit -m "texto com a descrição do que foi implementado"
 git push origin main
 ``` 
+## citaçoes
+
+> uma boa documentação explica o objetivo, o uso e as limitações de um projeto.
+
+## tabelas
+
+| Tecnologia |finalidade|
+| --- | ---|
+|git | controle de versionamento|
+Git Hub| hospedagem e colaboração|
+|markdown| Documentação|
+
+```
+| Alinhamento à esquerda | Alinhamento ao centro |    Alinhamento à direita |
+| :--- | :---: | ---: |
+| Texto | Texto | Texto |
+```
+| Alinhamento à esquerda | Alinhamento ao centro |    Alinhamento à direita |
+| :--- | :---: | ---: |
+| Texto | Texto | Texto |
+
+
+## imagens 
+![42 Badge](https://img.shields.io/badge/42-000?logo=42&logoColor=fff&style=flat)
+
+![.ENV Badge](https://img.shields.io/badge/.ENV-ECD53F?logo=dotenv&logoColor=000&style=flat-square)
+
+![4chan Badge](https://img.shields.io/badge/4chan-060?logo=4chan&logoColor=fff&style=flat)
+
+![homer simpson](./img/images.jpg)
